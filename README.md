@@ -1,11 +1,5 @@
 # 👋 Hi there, I'm Navid.
 
-## 🌍 Languages
-Select your language:
-- [English](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.md)
-- [Français](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.fr.md)
-- [Deutsch](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.de.md)
-
 ## About Me
 🚀 I'm passionate about coding and building cool stuff  
 🌱 Currently exploring new technologies and projects  
