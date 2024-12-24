@@ -1,8 +1,10 @@
 # 👋 Hi there, I'm Navid.
 
-## 🌍 Languages:
-[![English](https://img.shields.io/badge/English-3776AB?style=flat&logo=Google&logoColor=white)](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.md)
-[![Español](https://img.shields.io/badge/Español-FF5733?style=flat&logo=Google&logoColor=white)](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.es.md)
+## 🌍 Languages
+Select your language:
+- [English](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.md)
+- [Français](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.fr.md)
+- [Deutsch](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.de.md)
 
 ## About Me
 🚀 I'm passionate about coding and building cool stuff  
@@ -43,17 +45,3 @@
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-MengE)
-<!--
-**Navid-Meng/Navid-Meng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: no
-- ⚡ Fun fact: I hate coding.
--->
