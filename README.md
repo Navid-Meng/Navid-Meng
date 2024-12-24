@@ -19,9 +19,6 @@
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navid-Meng&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-![Your Trophies](https://github-profile-trophy.vercel.app/?username=Navid-Meng&theme=darkhub)
-
 ## 📈 Contribution Graph
 ![Snake animation](https://github.com/Navid-Meng/Navid-Meng/blob/output/github-contribution-grid-snake.svg)
 
