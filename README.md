@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Navid.
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
 ## About Me
 🚀 I'm passionate about coding and building cool stuff  
 🌱 Currently exploring new technologies and projects  
