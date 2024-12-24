@@ -38,7 +38,7 @@
 - Connect with fellow developers
 
 ## 🎧 Fav Song
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=MichaelBublé&count=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fc3oe6xo7mioj22v7y5k2mwmoy&unique={true|1|on|yes})
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
