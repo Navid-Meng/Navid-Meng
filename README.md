@@ -18,9 +18,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navid-Meng&show_icons=true&theme=radical)
-
 ## 📈 Contribution Graph
 ![Snake animation](https://github.com/Navid-Meng/Navid-Meng/blob/output/github-contribution-grid-snake.svg)
 
@@ -42,3 +39,8 @@
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
+
+<!-- 
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navid-Meng&show_icons=true&theme=radical)
+-->
