@@ -23,7 +23,7 @@
 ![Your Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub)
 
 ## 📈 Contribution Graph
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Navid-Meng/Navid-Meng/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
