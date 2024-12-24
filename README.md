@@ -37,5 +37,52 @@
 - Learn new technologies
 - Connect with fellow developers
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#0d1117"/>
+  
+  <!-- Tech Stack Circles -->
+  <g class="tech-stack" style="animation: rotate 60s linear infinite;">
+    <!-- Python -->
+    <circle cx="400" cy="200" r="150" fill="none" stroke="#3776AB" stroke-width="2">
+      <animate attributeName="r" values="150;155;150" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="200" r="30" fill="#3776AB">
+      <animate attributeName="r" values="30;32;30" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- JavaScript -->
+    <circle cx="400" cy="200" r="120" fill="none" stroke="#F7DF1E" stroke-width="2">
+      <animate attributeName="r" values="120;125;120" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="520" cy="200" r="25" fill="#F7DF1E">
+      <animate attributeName="r" values="25;27;25" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- C# -->
+    <circle cx="400" cy="200" r="90" fill="none" stroke="#239120" stroke-width="2">
+      <animate attributeName="r" values="90;95;90" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="490" cy="200" r="20" fill="#239120">
+      <animate attributeName="r" values="20;22;20" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Center Text -->
+  <text x="400" y="205" text-anchor="middle" fill="white" font-family="Arial" font-size="24">
+    Tech Stack
+  </text>
+  
+  <style>
+    @keyframes rotate {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    .tech-stack {
+      transform-origin: 400px 200px;
+    }
+  </style>
+</svg>
+
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
