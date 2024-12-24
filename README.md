@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Navid.
 
+## 🌍 Languages:
+[![English](https://img.shields.io/badge/English-3776AB?style=flat&logo=Google&logoColor=white)](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.md)
+[![Español](https://img.shields.io/badge/Español-FF5733?style=flat&logo=Google&logoColor=white)](https://github.com/Navid-Meng/Navid-Meng/blob/main/README.es.md)
+
 ## About Me
 🚀 I'm passionate about coding and building cool stuff  
 🌱 Currently exploring new technologies and projects  
