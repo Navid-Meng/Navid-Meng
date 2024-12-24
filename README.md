@@ -17,10 +17,10 @@
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navid-Meng&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Your Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub)
+![Your Trophies](https://github-profile-trophy.vercel.app/?username=Navid-Meng&theme=darkhub)
 
 ## 📈 Contribution Graph
 ![Snake animation](https://github.com/Navid-Meng/Navid-Meng/blob/output/github-contribution-grid-snake.svg)
