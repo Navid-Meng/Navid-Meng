@@ -35,11 +35,10 @@
 - Connect with fellow developers
 
 ## 🎧 Fav Song
-| 🎶 **Song Name**       | Bohemian Rhapsody    |
+| 🎶 **Song Name**       | Blue    |
 |------------------------|----------------------|
-| 🎤 **Artist**          | Queen               |
-| 💿 **Album**           | A Night at the Opera|
-| ⏰ **Released**         | 1975                |
+| 🎤 **Artist**          | Yung Kai               |
+| ⏰ **Released**         | 2024                |
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
