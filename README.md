@@ -35,9 +35,7 @@
 - Connect with fellow developers
 
 ## 🎧 Fav Song
-- **Song Name**: Bohemian Rhapsody  
-- **Artist**: Queen  
-- **Album**: A Night at the Opera
+![Bohemian Rhapsody by Queen](https://i.imgur.com/album-cover.png)
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
