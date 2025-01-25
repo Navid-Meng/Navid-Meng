@@ -35,7 +35,7 @@
 - Connect with fellow developers
 
 ## 🎧 Fav Song
-| 🎶 **Song Name**       | Blue    |
+| 🎶 **Song Name**       | Wildflower    |
 |------------------------|----------------------|
 | 🎤 **Artist**          | Yung Kai               |
 | ⏰ **Released**         | 2024                |
