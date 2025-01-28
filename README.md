@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Navid. 
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+
+# 👋 Hi there, I'm Navid.
 
 ## About Me 😎
 🚀 I'm passionate about coding and building cool stuff  
@@ -32,7 +34,7 @@
 - Build interesting side projects
 - Learn new technologies
 - Connect with fellow developers
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" align="right">
+
 ## 🎧 Fav Song
 | 🎶 **Song Name**       | Wildflower    |
 |------------------------|----------------------|
