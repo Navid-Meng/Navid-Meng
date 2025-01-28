@@ -42,8 +42,3 @@
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
-
-<!-- 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navid-Meng&show_icons=true&theme=radical)
--->
