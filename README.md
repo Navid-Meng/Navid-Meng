@@ -33,6 +33,7 @@
 - Build interesting side projects
 - Learn new technologies
 - Connect with fellow developers
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" align="right">
 
 ## 🎧 Fav Song
 | 🎶 **Song Name**       | Wildflower    |
