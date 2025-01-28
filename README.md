@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Navid. <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" align="right">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+
+# 👋 Hi there, I'm Navid. 
 
 ## About Me 😎
 🚀 I'm passionate about coding and building cool stuff  
