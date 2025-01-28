@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
-
 # 👋 Hi there, I'm Navid. 
 
 ## About Me 😎
@@ -29,13 +27,12 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@coderistic)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/Meng-Navid)
 
-
 ## 🎯 Current Goals
 - Contribute more to open source
 - Build interesting side projects
 - Learn new technologies
 - Connect with fellow developers
-
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" align="right">
 ## 🎧 Fav Song
 | 🎶 **Song Name**       | Wildflower    |
 |------------------------|----------------------|
