@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="tech vibes">
-
 # 👋 Hi!, I'm Navid.
 
 ## About Me 😎
