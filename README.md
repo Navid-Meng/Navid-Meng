@@ -20,9 +20,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📈 Contribution Graph
-![Snake animation](https://github.com/Navid-Meng/Navid-Meng/blob/output/github-contribution-grid-snake.svg)
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meng-navid/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/mengnavid)
@@ -38,8 +35,8 @@
 ## 🎧 Fav Song
 | 🎶 **Song Name**       | Wildflower    |
 |------------------------|----------------------|
-| 🎤 **Artist**          | Yung Kai               |
-| ⏰ **Released**         | 2024                |
+| 🎤 **Artist**          | Here With Me               |
+| ⏰ **Released**         | 2023                |
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
