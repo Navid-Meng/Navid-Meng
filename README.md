@@ -31,9 +31,9 @@
 - Connect with fellow developers
 
 ## 🎧 Fav Song
-| 🎶 **Song Name**       | Wildflower    |
+| 🎶 **Song Name**       | Here With Me    |
 |------------------------|----------------------|
-| 🎤 **Artist**          | Here With Me               |
+| 🎤 **Artist**          | D4vd               |
 | ⏰ **Released**         | 2023                |
 
 ---
