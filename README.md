@@ -1,6 +1,6 @@
 # 👋 Hi!, I'm Navid.
 
-## About Me 😎
+## 😎 About Me 
 🚀 I'm passionate about coding and building cool stuff  
 🌱 Currently exploring new technologies and projects  
 💡 Always open to collaborating on interesting projects
