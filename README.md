@@ -1,9 +1,9 @@
 # 👋 Hi!, I'm Navid.
 
 ## 😎 About Me 
-🚀 I'm passionate about coding and building cool stuff  
-🌱 Currently exploring new technologies and projects  
-💡 Always open to collaborating on interesting projects
+- I'm passionate about coding and building cool stuff  
+- Currently exploring new technologies and projects  
+- Always open to collaborating on interesting projects
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
