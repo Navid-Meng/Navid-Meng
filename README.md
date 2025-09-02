@@ -30,6 +30,10 @@
 - Learn new technologies
 - Connect with fellow developers
 
+<link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Kantumruy Pro', sans-serif;">
+
 ## 🎧 Fav Song
 | 🎶 **Song Name**       | គ្មានផ្លូវ Full guitar cover    |
 |------------------------|----------------------|
