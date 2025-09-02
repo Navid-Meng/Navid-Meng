@@ -31,10 +31,10 @@
 - Connect with fellow developers
 
 ## 🎧 Fav Song
-| 🎶 **Song Name**       | Here With Me    |
+| 🎶 **Song Name**       | គ្មានផ្លូវ Full guitar cover    |
 |------------------------|----------------------|
-| 🎤 **Artist**          | D4vd               |
-| ⏰ **Released**         | 2023                |
+| 🎤 **Artist**          | Chhorn Puthirith               |
+| ⏰ **Released**         | 2022                |
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
