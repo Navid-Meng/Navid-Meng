@@ -31,10 +31,10 @@
 - Connect with fellow developers
 
 ## 🎧 Fav Song
-| 🎶 **Song Name**       | គ្មានផ្លូវ Full guitar cover    |
+| 🎶 **Song Name**       | Someone Like You    |
 |------------------------|----------------------|
-| 🎤 **Artist**          | Chhorn Puthirith               |
-| ⏰ **Released**         | 2022                |
+| 🎤 **Artist**          | Adele               |
+| ⏰ **Released**         | 2011                |
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
