@@ -31,10 +31,10 @@
 - Connect with fellow developers
 
 ## 🎧 Fav Song
-| 🎶 **Song Name**       | Someone Like You    |
+| 🎶 **Song Name**       | God Is    |
 |------------------------|----------------------|
-| 🎤 **Artist**          | Adele               |
-| ⏰ **Released**         | 2011                |
+| 🎤 **Artist**          | Kanye West               |
+| ⏰ **Released**         | 2019                |
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
