@@ -1,5 +1,7 @@
 # 👋 Hi!, I'm Navid.
 
+![GitHub Stats](http://stats.sophat.top/stats?username=Navid-Meng&theme=dark&avatar_mode=radar&data_border_style=frame)
+
 ## 😎 About Me 
 - I'm passionate about coding and building cool stuff  
 - Currently exploring new technologies and projects  
