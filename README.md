@@ -32,6 +32,7 @@
 - Learn new technologies
 - Connect with fellow developers
 
+## 🔝 Most Used Languages
 ![Top Languages](http://stats.pphat.top/languages?username=Navid-Meng&type=card&show_info=true&theme=highcontrast)
 
 ---
