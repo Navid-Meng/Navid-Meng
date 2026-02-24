@@ -1,6 +1,7 @@
 # 👋 Hi!, I'm Navid.
 
 ![GitHub Stats](http://stats.sophat.top/stats?username=Navid-Meng&theme=nightowl&avatar_mode=radar&data_border_style=frame)
+http://stats.pphat.top/languages?username=Navid-Meng&type=card&show_info=true&theme=rose_pine
 
 ## 😎 About Me 
 - I'm passionate about coding and building cool stuff  
