@@ -1,7 +1,7 @@
 # 👋 Hi!, I'm Navid.
 
 ![GitHub Stats](http://stats.pphat.top/stats?username=Navid-Meng&avatar_mode=radar&theme=highcontrast&data_border_style=frame)
-![Top Langs](http://stats.pphat.top/languages?username=Navid-Meng&type=card&show_info=true&theme=rose_pine)](http://stats.pphat.top/stats?username=Navid-Meng&avatar_mode=radar&theme=highcontrast&data_border_style=frame)
+![Top Langs](http://stats.pphat.top/languages?username=Navid-Meng&type=card&show_info=true&theme=rose_pine)
 
 ## 😎 About Me 
 - I'm passionate about coding and building cool stuff  
