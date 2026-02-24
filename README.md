@@ -1,7 +1,6 @@
 # 👋 Hi!, I'm Navid.
 
 ![GitHub Stats](http://stats.pphat.top/stats?username=Navid-Meng&avatar_mode=radar&theme=highcontrast&data_border_style=frame)
-![Top Langs](http://stats.pphat.top/languages?username=Navid-Meng&type=card&show_info=true&theme=rose_pine)
 
 ## 😎 About Me 
 - I'm passionate about coding and building cool stuff  
@@ -33,11 +32,7 @@
 - Learn new technologies
 - Connect with fellow developers
 
-## 🎧 Fav Song
-| 🎶 **Song Name**       | God Is    |
-|------------------------|----------------------|
-| 🎤 **Artist**          | Kanye West               |
-| ⏰ **Released**         | 2019                |
+![Top Languages](http://stats.pphat.top/languages?username=Navid-Meng&type=card&show_info=true&theme=highcontrast)
 
 ---
 ⭐️ From [Navid](https://github.com/Navid-Meng)
