@@ -8,6 +8,7 @@
 - Always open to collaborating on interesting projects
 
 ## 🛠️ Tech Stack
+![Node.js](https://stats.pphat.top/assets/icons/nodedotjs.svg)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-node.js-4FC08D?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
