@@ -13,7 +13,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Vue.js](https://stats.pphat.top/assets/icons/vuedotjs.svg)
 ![Nuxt.js](https://stats.pphat.top/assets/icons/nuxt.svg)
 ![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo&logoColor=white)
