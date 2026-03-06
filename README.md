@@ -9,17 +9,16 @@
 
 ## 🛠️ Tech Stack
 ![Node.js](https://stats.pphat.top/assets/icons/nodedotjs.svg)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-node.js-4FC08D?style=flat&logo=node.js&logoColor=white)
+![.Net](https://stats.pphat.top/assets/icons/dotnet.svg)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![Vue.js](https://stats.pphat.top/assets/icons/vuedotjs.svg)
+![Nuxt.js](https://stats.pphat.top/assets/icons/nuxt.svg)
 ![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![PostgreSQL](https://stats.pphat.top/assets/icons/postgresql.svg)
+![Git](https://stats.pphat.top/assets/icons/git.svg)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meng-navid/)
