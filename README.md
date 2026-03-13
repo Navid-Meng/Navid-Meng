@@ -8,16 +8,17 @@
 - Always open to collaborating on interesting projects
 
 ## 🛠️ Tech Stack
-![Node.js](https://stats.pphat.top/assets/icons/nodedotjs.svg)
-![.Net](https://stats.pphat.top/assets/icons/dotnet.svg)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<img src="https://stats.pphat.top/icons/typescript?color=red" alt="icon of typescript"/>
+<img src="https://stats.pphat.top/icons/nodedotjs?color=red" alt="icon of nodedotjs"/>
+<img src="https://stats.pphat.top/icons/dotnet?color=red" alt="icon of dotnet"/>
+<img src="https://stats.pphat.top/icons/csharp?color=red" alt="icon of csharp"/>
+<img src="https://stats.pphat.top/icons/fastapi?color=red" alt="icon of fastapi"/>
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Vue.js](https://stats.pphat.top/assets/icons/vuedotjs.svg)
-![Nuxt.js](https://stats.pphat.top/assets/icons/nuxt.svg)
-![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=hugo&logoColor=white)
-![PostgreSQL](https://stats.pphat.top/assets/icons/postgresql.svg)
-![Git](https://stats.pphat.top/assets/icons/git.svg)
+<img src="https://stats.pphat.top/icons/vuedotjs?color=red" alt="icon of vuedotjs"/>
+<img src="https://stats.pphat.top/icons/nuxt?color=red" alt="icon of nuxt"/>
+<img src="https://stats.pphat.top/icons/hugo?color=red" alt="icon of hugo"/>
+<img src="https://stats.pphat.top/icons/postgresql?color=red" alt="icon of postgresql"/>
+<img src="https://stats.pphat.top/icons/git?color=red" alt="icon of git"/>
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meng-navid/)
