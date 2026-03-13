@@ -8,17 +8,16 @@
 - Always open to collaborating on interesting projects
 
 ## 🛠️ Tech Stack
-<img src="https://stats.pphat.top/icons/typescript?color=red" alt="icon of typescript"/>
-<img src="https://stats.pphat.top/icons/nodedotjs?color=red" alt="icon of nodedotjs"/>
-<img src="https://stats.pphat.top/icons/dotnet?color=red" alt="icon of dotnet"/>
-<img src="https://stats.pphat.top/icons/csharp?color=red" alt="icon of csharp"/>
-<img src="https://stats.pphat.top/icons/fastapi?color=red" alt="icon of fastapi"/>
+![Vue.js](https://stats.pphat.top/icons/vuedotjs?color=%230088CC&glow=true&glowColor=%2300FF00)
+![Node.js](https://stats.pphat.top/icons/nodedotjs?color=%230088CC&glow=true&glowColor=%2300FF00)
+![.Net](https://stats.pphat.top/icons/dotnet?color=%230088CC&glow=true&glowColor=%2300FF00)
+![CSharp](https://stats.pphat.top/icons/csharp?color=%230088CC&glow=true&glowColor=%2300FF00)
+![FastAPI](https://stats.pphat.top/icons/fastapi?color=%230088CC&glow=true&glowColor=%2300FF00)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-<img src="https://stats.pphat.top/icons/vuedotjs?color=red" alt="icon of vuedotjs"/>
-<img src="https://stats.pphat.top/icons/nuxt?color=red" alt="icon of nuxt"/>
-<img src="https://stats.pphat.top/icons/hugo?color=red" alt="icon of hugo"/>
-<img src="https://stats.pphat.top/icons/postgresql?color=red" alt="icon of postgresql"/>
-<img src="https://stats.pphat.top/icons/git?color=red" alt="icon of git"/>
+![Nuxt.js](https://stats.pphat.top/icons/nuxt?color=%230088CC&glow=true&glowColor=%2300FF00)
+![Hugo](https://stats.pphat.top/icons/hugo?color=%230088CC&glow=true&glowColor=%2300FF00)
+![Postgresql](https://stats.pphat.top/icons/postgresql?color=%230088CC&glow=true&glowColor=%2300FF00)
+![Git](https://stats.pphat.top/icons/git?color=%230088CC&glow=true&glowColor=%2300FF00)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meng-navid/)
