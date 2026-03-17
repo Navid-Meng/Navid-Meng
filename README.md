@@ -13,10 +13,11 @@
 ![.Net](https://stats.pphat.top/icons/dotnet?color=%230088CC&glow=true&glowColor=%2300FF00)
 ![CSharp](https://stats.pphat.top/icons/csharp?color=%230088CC&glow=true&glowColor=%2300FF00)
 ![FastAPI](https://stats.pphat.top/icons/fastapi?color=%230088CC&glow=true&glowColor=%2300FF00)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Django](https://stats.pphat.top/icons/django?color=%230088CC&glow=true&glowColor=%2300FF00)
 ![Nuxt.js](https://stats.pphat.top/icons/nuxt?color=%230088CC&glow=true&glowColor=%2300FF00)
 ![Hugo](https://stats.pphat.top/icons/hugo?color=%230088CC&glow=true&glowColor=%2300FF00)
 ![Postgresql](https://stats.pphat.top/icons/postgresql?color=%230088CC&glow=true&glowColor=%2300FF00)
+![Django](https://stats.pphat.top/icons/redis?color=%230088CC&glow=true&glowColor=%2300FF00)
 ![Git](https://stats.pphat.top/icons/git?color=%230088CC&glow=true&glowColor=%2300FF00)
 
 ## 📫 Connect With Me
