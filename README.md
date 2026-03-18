@@ -8,17 +8,7 @@
 - Always open to collaborating on interesting projects
 
 ## 🛠️ Tech Stack
-![Vue.js](https://stats.pphat.top/icons/vuedotjs?color=%230088CC&glow=true&glowColor=%2300FF00)
-![Node.js](https://stats.pphat.top/icons/nodedotjs?color=%230088CC&glow=true&glowColor=%2300FF00)
-![.Net](https://stats.pphat.top/icons/dotnet?color=%230088CC&glow=true&glowColor=%2300FF00)
-![CSharp](https://stats.pphat.top/icons/csharp?color=%230088CC&glow=true&glowColor=%2300FF00)
-![FastAPI](https://stats.pphat.top/icons/fastapi?color=%230088CC&glow=true&glowColor=%2300FF00)
-![Django](https://stats.pphat.top/icons/django?color=%230088CC&glow=true&glowColor=%2300FF00)
-![Nuxt.js](https://stats.pphat.top/icons/nuxt?color=%230088CC&glow=true&glowColor=%2300FF00)
-![Hugo](https://stats.pphat.top/icons/hugo?color=%230088CC&glow=true&glowColor=%2300FF00)
-![Postgresql](https://stats.pphat.top/icons/postgresql?color=%230088CC&glow=true&glowColor=%2300FF00)
-![Django](https://stats.pphat.top/icons/redis?color=%230088CC&glow=true&glowColor=%2300FF00)
-![Git](https://stats.pphat.top/icons/git?color=%230088CC&glow=true&glowColor=%2300FF00)
+![Tech Stack](https://stats.pphat.top/icons?name=vuedotjs,nodedotjs,dotnet,csharp,fastapi,django,nuxt,hugo,postgresql,redis,git&columns=12&size=small&effect=wave)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meng-navid/)
