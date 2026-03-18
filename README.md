@@ -2,11 +2,11 @@
 
 ![GitHub Stats](http://stats.pphat.top/stats?username=Navid-Meng&avatar_mode=radar&theme=highcontrast&data_border_style=frame)
 
-## 🛠️ Tech Stack
-![Tech Stack](https://stats.pphat.top/icons?name=vuedotjs,nodedotjs,dotnet,csharp,fastapi,django,nuxt,hugo,postgresql,redis,git&columns=12&size=small&effect=wave)
-
 ## 🔝 Most Used Languages
 ![Top Languages](http://stats.pphat.top/languages?username=Navid-Meng&type=card&show_info=true&theme=highcontrast)
+
+## 🛠️ Tech Stack
+![Tech Stack](https://stats.pphat.top/icons?name=vuedotjs,nodedotjs,dotnet,csharp,fastapi,django,nuxt,hugo,postgresql,redis,git&columns=12&size=small&effect=wave)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meng-navid/)
