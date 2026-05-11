@@ -1,10 +1,5 @@
 # 👋 Hi!, I'm Navid.
 
-![GitHub Stats](http://stats.pphat.top/stats?username=Navid-Meng&avatar_mode=radar&theme=highcontrast&data_border_style=frame)
-
-## 🔝 Most Used Languages
-![Top Languages](http://stats.pphat.top/languages?username=Navid-Meng&type=card&show_info=true&theme=highcontrast)
-
 ## 🛠️ Tech Stack I Use
 ![Tech Stack](https://stats.pphat.top/icons?name=vuedotjs,nodedotjs,dotnet,csharp,fastapi,django,nuxt,hugo,postgresql,redis,git&columns=12&size=small&effect=wave)
 
