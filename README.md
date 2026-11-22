@@ -1,7 +1,8 @@
 # 👋 Hi!, I'm Navid.
 
 ## 🛠️ Tech Stack I Use
-![Tech Stack](https://stats.pphat.top/icons?name=vuedotjs,nodedotjs,dotnet,csharp,fastapi,django,nuxt,hugo,postgresql,redis,git&columns=12&size=small&effect=wave)
+
+Claude, GPT, Gemini, GLM
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/meng-navid/)
